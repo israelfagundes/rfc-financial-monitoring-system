@@ -123,6 +123,19 @@ The Financial Monitoring System incorporates robust security measures to protect
 - **Phase 3:** Full-scale deployment across all users and data centers.
 
 ## 9. Metrics & Monitoring
+The Financial Monitoring System will track the following metrics for performance and reliability:
+
+- **System Metrics:**
+  - CPU and memory usage.
+  - Network latency and throughput.
+- **Application Metrics:**
+  - Transactions processed per second (TPS).
+  - Anomalies detected per day.
+- **Business Metrics:**
+  - Fraudulent transactions prevented.
+  - Compliance violations detected.
+- **Alerting:**
+  - Real-time alerts for system failures or performance degradation.
 
 ## 10. Customer Support Considerations
 The Financial Monitoring System will provide the following customer support features:
