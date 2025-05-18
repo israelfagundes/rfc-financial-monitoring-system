@@ -147,3 +147,5 @@ The Financial Monitoring System will provide the following customer support feat
 
 ## 11. Conclusion
 The Financial Monitoring System is a robust, scalable, and secure platform designed to meet the needs of modern financial institutions. Built from the ground up, the Financial Monitoring System leverages cutting-edge technologies to provide real-time monitoring, anomaly detection, and compliance enforcement. Its modular architecture ensures scalability and flexibility, while its multi-data center design guarantees high availability and fault tolerance. With a comprehensive testing strategy and a focus on performance, security, and user experience, the Financial Monitoring System is positioned to deliver reliable and efficient financial monitoring from day one.
+
+<img src="./.github/diagram.png" />
